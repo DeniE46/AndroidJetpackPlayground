@@ -1,0 +1,285 @@
+@startuml
+
+title __KTX's Class Diagram__\n
+
+  package androidx.navigation {
+    package androidx.navigation.ktx {
+      class R {
+          - R()
+      }
+    }
+  }
+  
+
+  package androidx.navigation {
+    package androidx.navigation.ktx {
+      class attr {
+          {static} + action : int
+          {static} + argType : int
+          {static} + clearTask : int
+          {static} + data : int
+          {static} + dataPattern : int
+          {static} + destination : int
+          {static} + enterAnim : int
+          {static} + exitAnim : int
+          {static} + font : int
+          {static} + fontProviderAuthority : int
+          {static} + fontProviderCerts : int
+          {static} + fontProviderFetchStrategy : int
+          {static} + fontProviderFetchTimeout : int
+          {static} + fontProviderPackage : int
+          {static} + fontProviderQuery : int
+          {static} + fontStyle : int
+          {static} + fontWeight : int
+          {static} + graph : int
+          {static} + launchDocument : int
+          {static} + launchSingleTop : int
+          {static} + nullable : int
+          {static} + popEnterAnim : int
+          {static} + popExitAnim : int
+          {static} + popUpTo : int
+          {static} + popUpToInclusive : int
+          {static} + startDestination : int
+          {static} + uri : int
+          - attr()
+      }
+    }
+  }
+  
+
+  package androidx.navigation {
+    package androidx.navigation.ktx {
+      class bool {
+          {static} + abc_action_bar_embed_tabs : int
+          - bool()
+      }
+    }
+  }
+  
+
+  package androidx.navigation {
+    package androidx.navigation.ktx {
+      class color {
+          {static} + notification_action_color_filter : int
+          {static} + notification_icon_bg_color : int
+          {static} + ripple_material_light : int
+          {static} + secondary_text_default_material_light : int
+          - color()
+      }
+    }
+  }
+  
+
+  package androidx.navigation {
+    package androidx.navigation.ktx {
+      class dimen {
+          {static} + compat_button_inset_horizontal_material : int
+          {static} + compat_button_inset_vertical_material : int
+          {static} + compat_button_padding_horizontal_material : int
+          {static} + compat_button_padding_vertical_material : int
+          {static} + compat_control_corner_material : int
+          {static} + notification_action_icon_size : int
+          {static} + notification_action_text_size : int
+          {static} + notification_big_circle_margin : int
+          {static} + notification_content_margin_start : int
+          {static} + notification_large_icon_height : int
+          {static} + notification_large_icon_width : int
+          {static} + notification_main_column_padding_top : int
+          {static} + notification_media_narrow_margin : int
+          {static} + notification_right_icon_size : int
+          {static} + notification_right_side_padding_top : int
+          {static} + notification_small_icon_background_padding : int
+          {static} + notification_small_icon_size_as_large : int
+          {static} + notification_subtext_size : int
+          {static} + notification_top_pad : int
+          {static} + notification_top_pad_large_text : int
+          - dimen()
+      }
+    }
+  }
+  
+
+  package androidx.navigation {
+    package androidx.navigation.ktx {
+      class drawable {
+          {static} + notification_action_background : int
+          {static} + notification_bg : int
+          {static} + notification_bg_low : int
+          {static} + notification_bg_low_normal : int
+          {static} + notification_bg_low_pressed : int
+          {static} + notification_bg_normal : int
+          {static} + notification_bg_normal_pressed : int
+          {static} + notification_icon_background : int
+          {static} + notification_template_icon_bg : int
+          {static} + notification_template_icon_low_bg : int
+          {static} + notification_tile_bg : int
+          {static} + notify_panel_notification_icon_bg : int
+          - drawable()
+      }
+    }
+  }
+  
+
+  package androidx.navigation {
+    package androidx.navigation.ktx {
+      class id {
+          {static} + action_container : int
+          {static} + action_divider : int
+          {static} + action_image : int
+          {static} + action_text : int
+          {static} + actions : int
+          {static} + async : int
+          {static} + blocking : int
+          {static} + chronometer : int
+          {static} + forever : int
+          {static} + icon : int
+          {static} + icon_group : int
+          {static} + info : int
+          {static} + italic : int
+          {static} + line1 : int
+          {static} + line3 : int
+          {static} + nav_controller_view_tag : int
+          {static} + normal : int
+          {static} + notification_background : int
+          {static} + notification_main_column : int
+          {static} + notification_main_column_container : int
+          {static} + right_icon : int
+          {static} + right_side : int
+          {static} + tag_transition_group : int
+          {static} + text : int
+          {static} + text2 : int
+          {static} + time : int
+          {static} + title : int
+          - id()
+      }
+    }
+  }
+  
+
+  package androidx.navigation {
+    package androidx.navigation.ktx {
+      class integer {
+          {static} + status_bar_notification_info_maxnum : int
+          - integer()
+      }
+    }
+  }
+  
+
+  package androidx.navigation {
+    package androidx.navigation.ktx {
+      class layout {
+          {static} + notification_action : int
+          {static} + notification_action_tombstone : int
+          {static} + notification_template_custom_big : int
+          {static} + notification_template_icon_group : int
+          {static} + notification_template_part_chronometer : int
+          {static} + notification_template_part_time : int
+          - layout()
+      }
+    }
+  }
+  
+
+  package androidx.navigation {
+    package androidx.navigation.ktx {
+      class string {
+          {static} + status_bar_notification_info_overflow : int
+          - string()
+      }
+    }
+  }
+  
+
+  package androidx.navigation {
+    package androidx.navigation.ktx {
+      class style {
+          {static} + TextAppearance_Compat_Notification : int
+          {static} + TextAppearance_Compat_Notification_Info : int
+          {static} + TextAppearance_Compat_Notification_Line2 : int
+          {static} + TextAppearance_Compat_Notification_Time : int
+          {static} + TextAppearance_Compat_Notification_Title : int
+          {static} + Widget_Compat_NotificationActionContainer : int
+          {static} + Widget_Compat_NotificationActionText : int
+          - style()
+      }
+    }
+  }
+  
+
+  package androidx.navigation {
+    package androidx.navigation.ktx {
+      class styleable {
+          {static} + ActivityNavigator : int[]
+          {static} + ActivityNavigator_android_name : int
+          {static} + ActivityNavigator_action : int
+          {static} + ActivityNavigator_data : int
+          {static} + ActivityNavigator_dataPattern : int
+          {static} + FontFamily : int[]
+          {static} + FontFamily_fontProviderAuthority : int
+          {static} + FontFamily_fontProviderCerts : int
+          {static} + FontFamily_fontProviderFetchStrategy : int
+          {static} + FontFamily_fontProviderFetchTimeout : int
+          {static} + FontFamily_fontProviderPackage : int
+          {static} + FontFamily_fontProviderQuery : int
+          {static} + FontFamilyFont : int[]
+          {static} + FontFamilyFont_android_font : int
+          {static} + FontFamilyFont_android_fontWeight : int
+          {static} + FontFamilyFont_android_fontStyle : int
+          {static} + FontFamilyFont_font : int
+          {static} + FontFamilyFont_fontStyle : int
+          {static} + FontFamilyFont_fontWeight : int
+          {static} + NavAction : int[]
+          {static} + NavAction_android_id : int
+          {static} + NavAction_clearTask : int
+          {static} + NavAction_destination : int
+          {static} + NavAction_enterAnim : int
+          {static} + NavAction_exitAnim : int
+          {static} + NavAction_launchDocument : int
+          {static} + NavAction_launchSingleTop : int
+          {static} + NavAction_popEnterAnim : int
+          {static} + NavAction_popExitAnim : int
+          {static} + NavAction_popUpTo : int
+          {static} + NavAction_popUpToInclusive : int
+          {static} + NavArgument : int[]
+          {static} + NavArgument_android_name : int
+          {static} + NavArgument_android_defaultValue : int
+          {static} + NavArgument_argType : int
+          {static} + NavArgument_nullable : int
+          {static} + NavDeepLink : int[]
+          {static} + NavDeepLink_android_autoVerify : int
+          {static} + NavDeepLink_uri : int
+          {static} + NavGraphNavigator : int[]
+          {static} + NavGraphNavigator_startDestination : int
+          {static} + NavInclude : int[]
+          {static} + NavInclude_graph : int
+          {static} + Navigator : int[]
+          {static} + Navigator_android_label : int
+          {static} + Navigator_android_id : int
+          - styleable()
+      }
+    }
+  }
+  
+
+  R +-down- attr
+  R +-down- bool
+  R +-down- color
+  R +-down- dimen
+  R +-down- drawable
+  R +-down- id
+  R +-down- integer
+  R +-down- layout
+  R +-down- string
+  R +-down- style
+  R +-down- styleable
+
+
+right footer
+
+
+PlantUML diagram generated by SketchIt! (https://bitbucket.org/pmesmeur/sketch.it)
+For more information about this tool, please contact philippe.mesmeur@gmail.com
+endfooter
+
+@enduml

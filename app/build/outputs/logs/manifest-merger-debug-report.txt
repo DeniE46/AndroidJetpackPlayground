@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-ui-ktx-1.0.0-alpha04.aar\b1d4c8bad8379fc70c28fa42a9b49aab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-ui-1.0.0-alpha04.aar\c750f1576fa5a24d054a277aa2dfe156\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ef4c9eac42475f50041bd7aa79d34844\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\71ea47da1d386b78ed93c79365d6f855\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a49b16543f318ea2039e845a4d5409d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\56bcd1216b023dfd8f6be8cf904ec30e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\37596f54b635abf5ce2b6ef93157401c\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5b9ef1caa7e43a5ad0657bc8bda5b097\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\176d3f7d2783bd8efd91f15a4943e867\AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-fragment-ktx-1.0.0-alpha04.aar\b90b0cf4c5ffb655971164ae65c390bc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-runtime-ktx-1.0.0-alpha04.aar\54b821808a193d1c6725673e04b7e7ae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-common-ktx-1.0.0-alpha04.aar\e655401ec8483ac745f2ebffff68b0a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\57acb9f88e324fdc25eeea18d1dc3156\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-fragment-1.0.0-alpha04.aar\10bc6647368ae71646eedb4dee3c9acc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\16cec67eb3b1364305e93db63821d97e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cfe9e7ca72dc807163cd9e2123423760\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d5f1f01badba2ad85eb109e18e7bed1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b2774342cfcce05a04abd6b379c1ce5e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-runtime-1.0.0-alpha04.aar\de2679e85bebb44a6721ec912c44d4c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fb60f52b29ee438ee988447fac31e63e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d11d397e416d8c8d14ac0f77839b3bf7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ddfe76523e262208f5285201b1e2f30f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-common-1.0.0-alpha04.aar\2cb8d23093b975c75f1c8cbaf71a1c07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9ddb6308383f30ce76b5ac31212a0d7f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\7d8a2e572d87c13668bcaf3029254e14\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\3e1745c9c37246efe588df906d0cb6bf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3a43f3a3359ba4d2d7e81a87bf563528\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6f664f9a87bc7c4e7bd2d70317011096\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0d0614740c890d78aada4e3445e8c2ba\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\999122635f89272f124a28344f9cb433\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\95e460d8fc45570e03203ada57c7b682\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:3:3-43
+		INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:5:3-20:17
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\37596f54b635abf5ce2b6ef93157401c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\37596f54b635abf5ce2b6ef93157401c\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\176d3f7d2783bd8efd91f15a4943e867\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\176d3f7d2783bd8efd91f15a4943e867\AndroidManifest.xml:22:5-28:19
+	android:label
+		ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:9:5-37
+	android:icon
+		ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:8:5-39
+	android:allowBackup
+		ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:7:5-31
+	android:theme
+		ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:10:5-36
+	android:name
+		ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:6:5-28
+activity#com.raywenderlich.android.imet.ui.MainActivity
+ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:11:5-19:16
+	android:windowSoftInputMode
+		ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:13:7-46
+	android:name
+		ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:12:7-38
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:14:7-18:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:15:9-61
+	android:name
+		ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:15:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:17:9-69
+	android:name
+		ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml:17:19-66
+uses-sdk
+INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-ui-ktx-1.0.0-alpha04.aar\b1d4c8bad8379fc70c28fa42a9b49aab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-ui-ktx-1.0.0-alpha04.aar\b1d4c8bad8379fc70c28fa42a9b49aab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-ui-1.0.0-alpha04.aar\c750f1576fa5a24d054a277aa2dfe156\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-ui-1.0.0-alpha04.aar\c750f1576fa5a24d054a277aa2dfe156\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ef4c9eac42475f50041bd7aa79d34844\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ef4c9eac42475f50041bd7aa79d34844\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\71ea47da1d386b78ed93c79365d6f855\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\71ea47da1d386b78ed93c79365d6f855\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a49b16543f318ea2039e845a4d5409d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a49b16543f318ea2039e845a4d5409d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\56bcd1216b023dfd8f6be8cf904ec30e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\56bcd1216b023dfd8f6be8cf904ec30e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\37596f54b635abf5ce2b6ef93157401c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\37596f54b635abf5ce2b6ef93157401c\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5b9ef1caa7e43a5ad0657bc8bda5b097\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5b9ef1caa7e43a5ad0657bc8bda5b097\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\176d3f7d2783bd8efd91f15a4943e867\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\176d3f7d2783bd8efd91f15a4943e867\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-fragment-ktx-1.0.0-alpha04.aar\b90b0cf4c5ffb655971164ae65c390bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-fragment-ktx-1.0.0-alpha04.aar\b90b0cf4c5ffb655971164ae65c390bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-runtime-ktx-1.0.0-alpha04.aar\54b821808a193d1c6725673e04b7e7ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-runtime-ktx-1.0.0-alpha04.aar\54b821808a193d1c6725673e04b7e7ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-common-ktx-1.0.0-alpha04.aar\e655401ec8483ac745f2ebffff68b0a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-common-ktx-1.0.0-alpha04.aar\e655401ec8483ac745f2ebffff68b0a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\57acb9f88e324fdc25eeea18d1dc3156\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\57acb9f88e324fdc25eeea18d1dc3156\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-fragment-1.0.0-alpha04.aar\10bc6647368ae71646eedb4dee3c9acc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-fragment-1.0.0-alpha04.aar\10bc6647368ae71646eedb4dee3c9acc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\16cec67eb3b1364305e93db63821d97e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\16cec67eb3b1364305e93db63821d97e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cfe9e7ca72dc807163cd9e2123423760\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cfe9e7ca72dc807163cd9e2123423760\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d5f1f01badba2ad85eb109e18e7bed1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\d5f1f01badba2ad85eb109e18e7bed1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b2774342cfcce05a04abd6b379c1ce5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b2774342cfcce05a04abd6b379c1ce5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-runtime-1.0.0-alpha04.aar\de2679e85bebb44a6721ec912c44d4c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-runtime-1.0.0-alpha04.aar\de2679e85bebb44a6721ec912c44d4c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fb60f52b29ee438ee988447fac31e63e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fb60f52b29ee438ee988447fac31e63e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d11d397e416d8c8d14ac0f77839b3bf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d11d397e416d8c8d14ac0f77839b3bf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ddfe76523e262208f5285201b1e2f30f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ddfe76523e262208f5285201b1e2f30f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-common-1.0.0-alpha04.aar\2cb8d23093b975c75f1c8cbaf71a1c07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha04] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\navigation-common-1.0.0-alpha04.aar\2cb8d23093b975c75f1c8cbaf71a1c07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9ddb6308383f30ce76b5ac31212a0d7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9ddb6308383f30ce76b5ac31212a0d7f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\7d8a2e572d87c13668bcaf3029254e14\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\7d8a2e572d87c13668bcaf3029254e14\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\3e1745c9c37246efe588df906d0cb6bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\3e1745c9c37246efe588df906d0cb6bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3a43f3a3359ba4d2d7e81a87bf563528\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\3a43f3a3359ba4d2d7e81a87bf563528\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6f664f9a87bc7c4e7bd2d70317011096\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\6f664f9a87bc7c4e7bd2d70317011096\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0d0614740c890d78aada4e3445e8c2ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0d0614740c890d78aada4e3445e8c2ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\999122635f89272f124a28344f9cb433\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\999122635f89272f124a28344f9cb433\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\95e460d8fc45570e03203ada57c7b682\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\95e460d8fc45570e03203ada57c7b682\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\denis\Desktop\iMet-Materialz\iMet-Materials\imet-starter\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\176d3f7d2783bd8efd91f15a4943e867\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\176d3f7d2783bd8efd91f15a4943e867\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\176d3f7d2783bd8efd91f15a4943e867\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\176d3f7d2783bd8efd91f15a4943e867\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\denis\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\176d3f7d2783bd8efd91f15a4943e867\AndroidManifest.xml:24:13-83
